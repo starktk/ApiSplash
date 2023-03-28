@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FundatecTi21</string>
+    <string name="inserir_nome">Insera seu nome</string>
+    <string name="qual_seu_nome">Oi, %s</string>
+</resources>
