@@ -1,4 +1,4 @@
-package com.example.fundatecti21
+package com.example.core
 
 import org.junit.Test
 

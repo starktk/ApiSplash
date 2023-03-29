@@ -48,6 +48,7 @@
 
 
     <Button
+        android:id="@+id/Logar"
         android:layout_width="204sp"
         android:layout_height="60dp"
         android:layout_marginTop="18dp"
