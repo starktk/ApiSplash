@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FundatecTi21"
 include ':app'
+include ':core'

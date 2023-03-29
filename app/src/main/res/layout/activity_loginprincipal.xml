@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity">
+    tools:context="com.example.lp4.LoginActivity">
 
     <ImageView
         android:id="@+id/Logo"
@@ -17,7 +17,7 @@
         app:layout_constraintBottom_toTopOf="@id/Email"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf=""
+        app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="90dp"></ImageView>
 
     <EditText
