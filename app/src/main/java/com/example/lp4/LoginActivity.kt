@@ -15,7 +15,7 @@ class LoginActivity : AppCompatActivity(){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_loginprincipal)
 
-
+        supportActionBar?.hide()
 
         val email = findViewById<EditText>(R.id.Email)
         val senha = findViewById<EditText>(R.id.Senha)
